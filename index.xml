@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home on Cloud Z</title>
-    <link>/</link>
+    <link>/zaction/</link>
     <description>Recent content in home on Cloud Z</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Jul 2018 04:20:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/zaction/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/cloud-z-action/z-action-docs/</link>
+      <link>/zaction/cloud-z-action/z-action-docs/</link>
       <pubDate>Mon, 09 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/cloud-z-action/z-action-docs/</guid>
+      <guid>/zaction/cloud-z-action/z-action-docs/</guid>
       <description>Cloud Z Action Cloud Z Action는 서버 관리 없이 웹 애플리케이션을 개발할 수 있는 Cloud Service 입니다. 사용자는 Cloud Z Action를 통해 함수(애플리케이션 내의 단위 함수 모듈</description>
     </item>
     
     <item>
       <title></title>
-      <link>/getting-start/set_up/</link>
+      <link>/zaction/getting-start/set_up/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/getting-start/set_up/</guid>
+      <guid>/zaction/getting-start/set_up/</guid>
       <description>설치하기</description>
     </item>
     
     <item>
       <title></title>
-      <link>/use-case/use-case-example/</link>
+      <link>/zaction/use-case/use-case-example/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/use-case/use-case-example/</guid>
+      <guid>/zaction/use-case/use-case-example/</guid>
       <description> USER CASE TEST </description>
     </item>
     
     <item>
       <title></title>
-      <link>/cloud-z-action/z-action-docs2/</link>
+      <link>/zaction/cloud-z-action/z-action-docs2/</link>
       <pubDate>Mon, 09 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/cloud-z-action/z-action-docs2/</guid>
+      <guid>/zaction/cloud-z-action/z-action-docs2/</guid>
       <description>Cloud Z Action Cloud Z Action는 서버 관리 없이 웹 애플리케이션을 개발할 수 있는 Cloud Service 입니다. 사용자는 Cloud Z Action를 통해 함수(애플리케이션 내의 단위 함수 모듈</description>
     </item>
     
     <item>
       <title></title>
-      <link>/getting-start/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</link>
+      <link>/zaction/getting-start/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/getting-start/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</guid>
+      <guid>/zaction/getting-start/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</guid>
       <description>시작하기</description>
     </item>
     
     <item>
       <title></title>
-      <link>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/</link>
+      <link>/zaction/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/</guid>
+      <guid>/zaction/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/</guid>
       <description>설치합니다.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B02/</link>
+      <link>/zaction/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B02/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B02/</guid>
+      <guid>/zaction/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B02/</guid>
       <description>설치합니다.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B07/</link>
+      <link>/zaction/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B07/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B07/</guid>
+      <guid>/zaction/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B07/</guid>
       <description>설치합니다.23</description>
     </item>
     
     <item>
       <title></title>
-      <link>/_header/</link>
+      <link>/zaction/_header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/_header/</guid>
+      <guid>/zaction/_header/</guid>
       <description></description>
     </item>
     
