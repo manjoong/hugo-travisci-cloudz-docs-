@@ -22,20 +22,20 @@
     
     <item>
       <title></title>
+      <link>/getting-start/set_up/</link>
+      <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
+      
+      <guid>/getting-start/set_up/</guid>
+      <description>설치하기</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/use-case/use-case-example/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
       <guid>/use-case/use-case-example/</guid>
       <description> USER CASE TEST </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/intro/set_up/</link>
-      <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
-      
-      <guid>/intro/set_up/</guid>
-      <description>설치하기</description>
     </item>
     
     <item>
@@ -49,19 +49,19 @@
     
     <item>
       <title></title>
-      <link>/intro/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</link>
+      <link>/getting-start/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/intro/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</guid>
+      <guid>/getting-start/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</guid>
       <description>시작하기</description>
     </item>
     
     <item>
       <title></title>
-      <link>/intro/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/</link>
+      <link>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/intro/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/</guid>
+      <guid>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/</guid>
       <description></description>
     </item>
     
