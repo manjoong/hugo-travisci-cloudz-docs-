@@ -20,14 +20,5 @@
       <description> USER CASE TEST </description>
     </item>
     
-    <item>
-      <title></title>
-      <link>/use-case/use-case-example2/</link>
-      <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
-      
-      <guid>/use-case/use-case-example2/</guid>
-      <description> USER CASE TEST2 </description>
-    </item>
-    
   </channel>
 </rss>
