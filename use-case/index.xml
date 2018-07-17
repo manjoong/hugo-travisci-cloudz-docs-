@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Use Case on Cloud Z</title>
-    <link>/zaction/use-case/</link>
+    <link>/use-case/</link>
     <description>Recent content in Use Case on Cloud Z</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Jul 2018 04:20:00 +0000</lastBuildDate>
     
-	<atom:link href="/zaction/use-case/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/use-case/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/zaction/use-case/use-case-example/</link>
+      <link>/use-case/use-case-example/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/zaction/use-case/use-case-example/</guid>
+      <guid>/use-case/use-case-example/</guid>
       <description> USER CASE TEST </description>
     </item>
     

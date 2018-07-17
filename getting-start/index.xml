@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Getting Started on Cloud Z</title>
-    <link>/zaction/getting-start/</link>
+    <link>/getting-start/</link>
     <description>Recent content in Getting Started on Cloud Z</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Jul 2018 04:20:00 +0000</lastBuildDate>
     
-	<atom:link href="/zaction/getting-start/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/getting-start/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/zaction/getting-start/set_up/</link>
+      <link>/getting-start/set_up/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/zaction/getting-start/set_up/</guid>
+      <guid>/getting-start/set_up/</guid>
       <description>설치하기</description>
     </item>
     
     <item>
       <title></title>
-      <link>/zaction/getting-start/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</link>
+      <link>/getting-start/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/zaction/getting-start/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</guid>
+      <guid>/getting-start/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</guid>
       <description>시작하기</description>
     </item>
     
     <item>
       <title></title>
-      <link>/zaction/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/</link>
+      <link>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/zaction/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/</guid>
+      <guid>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/</guid>
       <description>설치합니다.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/zaction/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B02/</link>
+      <link>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B02/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/zaction/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B02/</guid>
+      <guid>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B02/</guid>
       <description>설치합니다.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/zaction/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B07/</link>
+      <link>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B07/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
-      <guid>/zaction/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B07/</guid>
+      <guid>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B07/</guid>
       <description>설치합니다.23</description>
     </item>
     
