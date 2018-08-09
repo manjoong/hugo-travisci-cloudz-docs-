@@ -8,17 +8,17 @@
   </url>
   
   <url>
-    <loc>/getting-start/set_up/</loc>
-    <lastmod>2018-07-05T04:20:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/use-case/use-case-example/</loc>
     <lastmod>2018-07-05T04:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/getting-start/</loc>
+    <loc>/intro/set_up/</loc>
+    <lastmod>2018-07-05T04:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/intro/</loc>
     <lastmod>2018-07-05T04:20:00+00:00</lastmod>
   </url>
   
@@ -33,12 +33,27 @@
   </url>
   
   <url>
+    <loc>/use-case/use-case-example2/</loc>
+    <lastmod>2018-07-05T04:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/use-case/use-case-example3/</loc>
+    <lastmod>2018-07-05T04:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/cloud-z-action/</loc>
     <lastmod>2018-07-05T04:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/getting-start/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</loc>
+    <loc>/intro/set_up2/</loc>
+    <lastmod>2018-07-05T04:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/intro/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</loc>
     <lastmod>2018-07-05T04:20:00+00:00</lastmod>
   </url>
   
@@ -48,18 +63,23 @@
   </url>
   
   <url>
-    <loc>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/</loc>
-    <lastmod>2018-07-05T04:20:00+00:00</lastmod>
+    <loc>/intro/set_up3/</loc>
+    <lastmod>2018-07-16T04:14:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B02/</loc>
-    <lastmod>2018-07-05T04:20:00+00:00</lastmod>
+    <loc>/intro/set_up4/</loc>
+    <lastmod>2018-07-16T13:23:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/getting-start/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B07/</loc>
-    <lastmod>2018-07-05T04:20:00+00:00</lastmod>
+    <loc>/intro/set_up5/</loc>
+    <lastmod>2018-07-16T13:23:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/intro/set_up6/</loc>
+    <lastmod>2018-07-16T13:23:41+09:00</lastmod>
   </url>
   
   <url>
